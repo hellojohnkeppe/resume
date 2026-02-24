@@ -50,6 +50,17 @@ While my resume lists these as roles, I view them as successful "optimization pr
 
 - **automation-logic/:** Documentation on the Zapier workflows I’ve built to integrate team tools.
 
+## 📑 Professional Resume
+
+If you are a recruiter or hiring manager, you can view or download my full professional history below:
+
+ <a href="./resume.pdf" download>
+  <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
+</a> 
+
+- **Note:** This resume highlights my 15+ years of experience in administration and data management, combined with my current technical evolution into web development and automation.
+
+
 ## 📫 Let's Connect
 
 I’m looking for opportunities where I can use my administrative DNA to build technical solutions.
